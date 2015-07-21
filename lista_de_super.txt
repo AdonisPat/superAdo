@@ -1,3 +1,4 @@
 Cerveza
 fanta
 Coca Cola
+Fernet - agregado desde branch lista_bebidas
