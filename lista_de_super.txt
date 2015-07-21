@@ -2,3 +2,4 @@ Cerveza
 fanta
 Coca Cola
 Fernet - agregado desde branch lista_bebidas
+Vino tino - agregado desde branch lista_bebidas
