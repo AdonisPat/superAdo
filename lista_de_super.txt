@@ -5,4 +5,6 @@ Fernet - agregado desde branch lista_bebidas
 Fideos - agregado desde branch lista_alimentos
 Arroz  - agregado desde branch lista_alimentos
 Vino tino - agregado desde branch lista_bebidas
-
+Mariano Franco
+Horacio Rabellino
+Guillermo Veneranda
