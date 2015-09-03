@@ -14,4 +14,8 @@ Guillermo Veneranda
 Roque Moyano
 German Illesca
 Mansilla Sebastian
+<<<<<<< HEAD
 Leo Latini
+=======
+Andres Luduena
+>>>>>>> 8d1edebb3a13b4016e7b59c6d239cad433e22281
