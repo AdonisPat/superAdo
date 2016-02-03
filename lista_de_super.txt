@@ -1,4 +1,3 @@
-MERGE FROM C1
 Cerveza
 fanta
 Coca Cola
